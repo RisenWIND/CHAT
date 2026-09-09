@@ -1,0 +1,25 @@
+# Build artifacts
+/build/
+
+# Visual Studio
+.vs/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# executables
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# temporary files
+*.tmp
+*.log
+
+# IDE
+.idea/
+
